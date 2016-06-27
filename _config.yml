@@ -1,14 +1,14 @@
-layout_spectrum: 0.6014681528322399
+layout_spectrum: 0.4684463234152645
 typography_spectrum: 0.43383501400239766
 color:
-  brandStrength: 0.987533240346238
-  lightness: 0.07448396878316998
-  saturation: 0.11272768629714847
-  rhythmicContrast: 0.3021524550858885
+  brandStrength: 0.20565003668889403
+  lightness: 0.8667742139659822
+  saturation: 0.7439530836418271
+  rhythmicContrast: 0.517413963098079
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
 name: El-Dookie
